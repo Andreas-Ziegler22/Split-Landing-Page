@@ -23,3 +23,10 @@ body {
   height: 100%;
   overflow: hidden;
 }
+
+.split.left {
+  left: 0;
+  background: url("./p5standart.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
