@@ -30,3 +30,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.split.right {
+  right: 0;
+  background: url("./p5digital.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
